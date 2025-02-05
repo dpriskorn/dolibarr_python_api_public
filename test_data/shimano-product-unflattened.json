@@ -1,0 +1,164 @@
+{
+   "baseOptions" : [ {
+      "options" : [ {
+         "code" : "Y3TE98040",
+         "name" : "Frihjulsbody enhet FH-RM35",
+         "priceData" : {
+            "currencyIso" : "SEK",
+            "formattedValue" : "137,00 kr",
+            "priceType" : "BUY",
+            "value" : 137.0
+         },
+         "stock" : {
+            "isValueRounded" : false,
+            "stockLevel" : 102,
+            "stockLevelStatus" : "backorder"
+         },
+         "url" : "/product/Y3TE98040",
+         "variantOptionQualifiers" : [ {
+            "name" : "N/A",
+            "qualifier" : "cgvc_SHIC_default",
+            "value" : "N/A"
+         } ]
+      } ],
+      "selected" : {
+         "code" : "Y3TE98040",
+         "name" : "Frihjulsbody enhet FH-RM35",
+         "priceData" : {
+            "currencyIso" : "SEK",
+            "formattedValue" : "137,00 kr",
+            "priceType" : "BUY",
+            "value" : 137.0
+         },
+         "stock" : {
+            "isValueRounded" : false,
+            "stockLevel" : 102,
+            "stockLevelStatus" : "backorder"
+         },
+         "url" : "/product/Y3TE98040",
+         "variantOptionQualifiers" : [ {
+            "name" : "N/A",
+            "qualifier" : "cgvc_SHIC_default",
+            "value" : "N/A"
+         } ]
+      },
+      "variantType" : "GenericVariantProduct"
+   } ],
+   "basePrice" : {
+      "currencyIso" : "SEK",
+      "formattedValue" : "137,00 kr",
+      "priceType" : "BASE",
+      "value" : 137.0
+   },
+   "baseProdCategory" : "cg4B2BEU_FrontRearHubParts",
+   "baseProduct" : "P-Y3TE98040",
+   "baseProductName" : "Frihjulsbody enhet FH-RM35",
+   "brand" : {
+      "code" : "SHIC",
+      "name" : "SHIMANO"
+   },
+   "categories" : [ {
+      "code" : "cg1B2BEU",
+      "name" : "Shimano Europe Bike B2B",
+      "type" : "Category",
+      "url" : "/Shimano-Europe-Bike-B2B/c/cg1B2BEU"
+   }, {
+      "code" : "cg2B2BEU_Bike_Spare_Parts_WOP",
+      "name" : "Reserv & Slitagedelar",
+      "type" : "Category",
+      "url" : "/Shimano-Europe-Bike-B2B/Reserv-%26-Slitagedelar/c/cg2B2BEU_Bike_Spare_Parts_WOP"
+   }, {
+      "code" : "cg3B2BEU_WheelsAndHubParts",
+      "name" : "HJUL OCH NAVDELAR",
+      "type" : "Category",
+      "url" : "/Shimano-Europe-Bike-B2B/Reserv-%26-Slitagedelar/HJUL-OCH-NAVDELAR/c/cg3B2BEU_WheelsAndHubParts"
+   }, {
+      "code" : "cg4B2BEU_FrontRearHubParts",
+      "name" : "Fram och Baknavsdelar",
+      "type" : "Category",
+      "url" : "/Shimano-Europe-Bike-B2B/Reserv-%26-Slitagedelar/HJUL-OCH-NAVDELAR/Fram-och-Baknavsdelar/c/cg4B2BEU_FrontRearHubParts"
+   } ],
+   "code" : "Y3TE98040",
+   "configurable" : false,
+   "description" : "",
+   "ean" : "4524667955474",
+   "groupset" : false,
+   "hasVariants" : false,
+   "inStockFlag" : true,
+   "leadTime" : 5,
+   "multidimensional" : true,
+   "name" : "Frihjulsbody enhet FH-RM35",
+   "numberOfReviews" : 0,
+   "price" : {
+      "currencyIso" : "SEK",
+      "formattedValue" : "137,00 kr",
+      "priceType" : "DEALER",
+      "value" : 137.0
+   },
+   "priceRange" : {
+      "maxPrice" : {
+         "currencyIso" : "SEK",
+         "value" : 249.0
+      },
+      "minPrice" : {
+         "currencyIso" : "SEK",
+         "value" : 137.0
+      }
+   },
+   "purchasable" : true,
+   "reviews" : [ ],
+   "showOrderFormButton" : false,
+   "srpPrice" : {
+      "currencyIso" : "SEK",
+      "formattedValue" : "249,00 kr",
+      "priceType" : "SRP",
+      "value" : 249.0
+   },
+   "stock" : {
+      "isValueRounded" : false,
+      "stockLevel" : 102,
+      "stockLevelStatus" : "backorder"
+   },
+   "summary" : "",
+   "superCategories" : [ {
+      "code" : "cgvvc_SHIC_default_default",
+      "name" : "N/A",
+      "parentCategoryName" : "N/A",
+      "type" : "VariantValueCategory",
+      "url" : "//N-A/N-A/c/cgvvc_SHIC_default_default"
+   } ],
+   "upc" : "689228955479",
+   "url" : "/shimanoBike-se/products/Y3TE98040",
+   "variantMatrix" : [ {
+      "elements" : [ ],
+      "isLeaf" : true,
+      "parentVariantCategory" : {
+         "hasImage" : false,
+         "name" : "N/A",
+         "priority" : 0
+      },
+      "variantOption" : {
+         "code" : "Y3TE98040",
+         "variantOptionQualifiers" : [ {
+         } ]
+      },
+      "variantValueCategory" : {
+         "name" : "N/A",
+         "sequence" : 1
+      }
+   } ],
+   "volumePrices" : [ {
+      "currencyIso" : "SEK",
+      "formattedValue" : "137,00 kr",
+      "maxQuantity" : 0,
+      "minQuantity" : 1,
+      "priceType" : "BUY",
+      "value" : 137.0
+   }, {
+      "currencyIso" : "SEK",
+      "formattedValue" : "249,00 kr",
+      "minQuantity" : 1,
+      "priceType" : "BUY",
+      "value" : 249.0
+   } ]
+}
