@@ -41,27 +41,44 @@ A total of 119 classes have been written to support the import of orders,
 products and provide accounting reports in a swedish context.
 
 ### Examples:
-src/controllers/dolibarr/customer/invoice.py
-src/controllers/dolibarr/customer/order.py
-src/controllers/dolibarr/customer/payment.py
-src/controllers/dolibarr/product.py
-src/controllers/dolibarr/supplier/invoice.py
-src/controllers/dolibarr/supplier/order.py
-src/controllers/dolibarr/supplier/payment.py
-src/controllers/marketplaces/sello/order.py
-src/controllers/marketplaces/sello/orders.py
-src/models/supplier/order/eu_order.py
-src/models/suppliers/shimano/login.py
-src/my_base_class.py
-src/views/dolibarr/customer/invoice.py
-src/views/dolibarr/entities.py
-src/views/dolibarr/product.py
-src/views/dolibarr/supplier/invoice.py
-src/views/dolibarr/supplier/order.py
-src/views/marketplaces/sello/order.py
-src/views/marketplaces/sello/order_row.py
-src/views/my_base_view.py
-
+- src/
+ - controllers/
+   - dolibarr/
+     - customer/
+       - invoice.py
+       - order.py 
+       - payment.py
+     - product.py
+     - supplier/
+       - invoice.py
+       - order.py
+       - payment.py
+   - marketplaces/
+     - sello/
+       - order.py
+       - orders.py
+ - models/
+   - supplier/
+     - order/
+       - eu_order.py
+   - suppliers/
+     - shimano/
+       - login.py
+ - my_base_class.py
+ - views/
+   - dolibarr/
+     - customer/
+       - invoice.py
+     - entities.py
+     - product.py
+     - supplier/
+       - invoice.py
+       - order.py
+   - marketplaces/
+     - sello/
+       - order.py
+       - order_row.py
+   - my_base_view.py
 ## Tests
 105 manual tests written so far which cover 69% of the code.
 
