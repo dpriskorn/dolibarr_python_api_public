@@ -1,3 +1,4 @@
+***This is now archived since I have closed my business and do not intend to support or develop this further.***
 # Dolibarr Python API 
 by Nizo Priskorn 2020-2024
 
