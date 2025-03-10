@@ -2,6 +2,9 @@
 # Dolibarr Python API 
 by Nizo Priskorn 2020-2024
 
+## License
+GPLv3+
+
 ## Background
 This API has been written and rewritten over a 
 number of years based on the business requirements of 
